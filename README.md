@@ -18,7 +18,7 @@ Donate me:
 9021674141363 : TIMO DIGITAL BANK : NGUYEN VIET KHOI
 OR paypal.me/meli0das0910
 ```
-
+My specs:
 ![This is my specs:](https://github.com/meli0dasH4ck3r/ids-ml/blob/main/spec.png)
 
 
