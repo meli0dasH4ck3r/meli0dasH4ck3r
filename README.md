@@ -19,6 +19,10 @@ Donate me:
 OR paypal.me/meli0das0910
 ```
 My specs:
+CPU : R9 5900X
+VGA : RTX 4090 
+RAM : 256GB
+
 ![This is my specs:](https://github.com/meli0dasH4ck3r/ids-ml/blob/main/spec.png)
 
 
