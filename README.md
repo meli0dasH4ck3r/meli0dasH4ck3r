@@ -19,6 +19,8 @@ Donate me:
 OR paypal.me/meli0das0910
 ```
 
+![This is my specs:](https://github.com/meli0dasH4ck3r/ids-ml/blob/main/spec.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
