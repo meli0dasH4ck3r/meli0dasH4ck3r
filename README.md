@@ -18,16 +18,18 @@ Donate me:
 9021674141363 : TIMO DIGITAL BANK : NGUYEN VIET KHOI
 OR paypal.me/meli0das0910
 ```
-My certification in application security : 
+My certification in Application Security : 
+
+
 ![CAP:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20004435.png)
 
-![PYTHON:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20005149.png)
-My specs:
-CPU : R9 5900X
-VGA : RTX 4090 
-RAM : 256GB
 
-![This is my specs:](https://github.com/meli0dasH4ck3r/ids-ml/blob/main/spec.png)
+My certifications in Python
+![PYTHON1:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20005149.png)
+
+
+[!PYTHON2:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20005635.png)
+
 
 
 <h3 align="left">Connect with me:</h3>
