@@ -24,10 +24,10 @@ My certification in Application Security :
 ![CAP:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20004435.png)
 
 
-My certifications in Python
+My certification in scientific computing with Python
 ![PYTHON1:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20005149.png)
 
-
+My certification in data analysis with Python
 [!PYTHON2:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20005635.png)
 
 
