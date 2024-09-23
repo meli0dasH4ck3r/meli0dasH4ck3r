@@ -19,8 +19,7 @@ Donate me:
 OR paypal.me/meli0das0910
 ```
 My certificates : 
-![My certificates:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/NguyenVietKhoi-CertifiedAppSecPractitioner(CAP).pdf) 
-
+![My certificates:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20004435.png)
 My specs:
 CPU : R9 5900X
 VGA : RTX 4090 
