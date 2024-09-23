@@ -20,6 +20,8 @@ OR paypal.me/meli0das0910
 ```
 My certificates : 
 ![My certificates:](https://github.com/meli0dasH4ck3r/meli0dasH4ck3r/blob/main/Screenshot%202024-09-24%20004435.png)
+
+![My certificates:](https://www.freecodecamp.org/certification/meli0das0910/scientific-computing-with-python-v7)
 My specs:
 CPU : R9 5900X
 VGA : RTX 4090 
