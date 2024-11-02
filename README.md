@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <a href="https://fafacebook.com/callmemeli0das/" target="_blank">
+  <a href="https://facebook.com/callmemeli0das/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/zkoiii0910/" target="_blank">
